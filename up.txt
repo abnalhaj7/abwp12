@@ -1,0 +1,3 @@
+    invoke-static {p2}, Lcom/abwhatsapp/yo/yo;->ABMods_Cut_Msg(I)I
+
+    move-result p2
